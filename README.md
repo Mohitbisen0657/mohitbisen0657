@@ -11,14 +11,14 @@
 <p>Outside of code and Figma, you’ll find me watching anime, hitting the gym, or drawing. I also enjoy writing <link> blog posts </link>and sharing tech-related content on social media .</p>
 
 <h4> Fun Facts: </h4>
-<ui>
+<ul style="padding-left:2em;">
   <li>
     I don’t like coffee or tea.
   </li>
   <li>
     Traveling is my favorite hobby.
   </li>
-</ui>
+</ul>
 
 
 
