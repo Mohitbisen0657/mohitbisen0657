@@ -8,4 +8,5 @@ Outside of code and Figma, you’ll find me watching anime, hitting the gym, or 
 
 # Fun Facts:
 I don’t like coffee or tea. 
+
 Traveling is my favorite hobby.
